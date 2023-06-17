@@ -1,0 +1,4 @@
+Daha önceden Mechanism2d, SingleJointedArmSim, command-based ve Falcon500 ile çalışmadığım için öncesinde araştırma yaptım ve takımımdaki mezun abilerime danıştım ve
+FRC'nin sitesinden bulduğum örnek kodlarla görevi yaptım. 
+
+Robot kolunun 90 dereceye gelmesi için gereken değerler =  Kp: 0.5  Ki: 0.8  Kd: 0.001
